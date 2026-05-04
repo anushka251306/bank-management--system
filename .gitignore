@@ -1,0 +1,7 @@
+# compiled binary
+bank
+
+# runtime data files
+accounts.dat
+accounts.tmp
+transactions.log
